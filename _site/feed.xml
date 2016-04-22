@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developing Workout Consciousness</title>
+    <description>A program designed to enhance your mental workflow</description>
+    <link>http://demorsystem.com/dwc/</link>
+    <atom:link href="http://demorsystem.com/dwc/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 22 Apr 2016 09:09:09 -0700</pubDate>
+    <lastBuildDate>Fri, 22 Apr 2016 09:09:09 -0700</lastBuildDate>
+    <generator>Jekyll v3.0.3</generator>
+    
+  </channel>
+</rss>
